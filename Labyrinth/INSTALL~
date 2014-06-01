@@ -1,0 +1,12 @@
+-------------------------
+Labyrinth problem solver
+-------------------------
+Elizabeth Shashkova, 2014
+
+This program finds the shortest path in labyrinth between two points.
+
+Build project:
+$mvn clean package
+
+Run project:
+$java -jar target/Labyrinth-1.0.jar 
